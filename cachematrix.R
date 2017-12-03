@@ -4,6 +4,8 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
+  #just check how things are going on!!
+  #amoola
 
 }
 
